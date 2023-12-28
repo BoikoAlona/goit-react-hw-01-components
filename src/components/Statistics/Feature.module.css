@@ -1,0 +1,22 @@
+.item {
+    display: grid;
+    border: 1px solid black;
+    width: 100%;
+    height: 100px;
+    padding: 20px;
+}
+
+.label {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.percentage {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+}

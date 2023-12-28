@@ -1,0 +1,9 @@
+.container {
+    padding: 20px;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    background: #e6b2c6;
+    background: -webkit-linear-gradient(to right, #e6b2c6, #d6e5fa);
+    background: linear-gradient(to right, #e6b2c6, #d6e5fa);
+}
